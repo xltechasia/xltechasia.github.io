@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XLTech Solutions</title>
+    <link>/about/authors/admin/</link>
+      <atom:link href="/about/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>XLTech Solutions</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©&amp;nbsp;&amp;nbsp;2019&amp;nbsp;&amp;nbsp;XLTech Solutions Pte Ltd</copyright>
+    <image>
+      <url>/img/logo/XLTech-Logo-0640x0640-Clr-Transparent-Square-Margin.png</url>
+      <title>XLTech Solutions</title>
+      <link>/about/authors/admin/</link>
+    </image>
+    
+  </channel>
+</rss>
