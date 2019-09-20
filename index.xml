@@ -38,20 +38,6 @@
     
     <item>
       <title></title>
-      <link>/html_code/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/html_code/</guid>
-      <description>&lt;link rel=&#34;apple-touch-icon&#34; sizes=&#34;180x180&#34; href=&#34;/apple-touch-icon.png&#34;&gt;
-&lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;32x32&#34; href=&#34;/favicon-32x32.png&#34;&gt;
-&lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;16x16&#34; href=&#34;/favicon-16x16.png&#34;&gt;
-&lt;link rel=&#34;manifest&#34; href=&#34;/site.webmanifest&#34;&gt;
-&lt;link rel=&#34;mask-icon&#34; href=&#34;/safari-pinned-tab.svg&#34; color=&#34;#2d89ef&#34;&gt;
-&lt;meta name=&#34;msapplication-TileColor&#34; content=&#34;#2d89ef&#34;&gt;
-&lt;meta name=&#34;theme-color&#34; content=&#34;#ffffff&#34;&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/kb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/kb/</guid>
