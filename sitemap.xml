@@ -203,6 +203,11 @@
   </url>
   
   <url>
+    <loc>/html_code/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/kb/</loc>
     <lastmod>2019-09-20T11:55:35+08:00</lastmod>
   </url>
