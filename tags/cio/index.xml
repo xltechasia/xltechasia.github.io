@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CIO | XLTech Solutions</title>
+    <link>/tags/cio/</link>
+      <atom:link href="/tags/cio/index.xml" rel="self" type="application/rss+xml" />
+    <description>CIO</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©&amp;nbsp;&amp;nbsp;2019&amp;nbsp;&amp;nbsp;XLTech Solutions Pte Ltd</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo/XLTech-Logo-0640x0640-Clr-Transparent-Square-Margin.png</url>
+      <title>CIO</title>
+      <link>/tags/cio/</link>
+    </image>
+    
+    <item>
+      <title>CIO-as-a-Service</title>
+      <link>/solution/consulting/cio-as-a-service/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/solution/consulting/cio-as-a-service/</guid>
+      <description>&lt;p&gt;As your CIOaaS, XLTech provides senior management engagement on IT effectiveness, costs and strategic alignment, without the overhead from hiring a senior manager in a critical but non-core role.&lt;/p&gt;
+
+&lt;p&gt;We work your staff to ensure IT skills, planning and delivery are thinking long-term and sustainability, and not floundering on fundamentals that distract value creation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CXO | XLTech Solutions</title>
+    <link>/tags/cxo/</link>
+      <atom:link href="/tags/cxo/index.xml" rel="self" type="application/rss+xml" />
+    <description>CXO</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©&amp;nbsp;&amp;nbsp;2019&amp;nbsp;&amp;nbsp;XLTech Solutions Pte Ltd</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo/XLTech-Logo-0640x0640-Clr-Transparent-Square-Margin.png</url>
+      <title>CXO</title>
+      <link>/tags/cxo/</link>
+    </image>
+    
+    <item>
+      <title>CIO-as-a-Service</title>
+      <link>/solution/consulting/cio-as-a-service/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/solution/consulting/cio-as-a-service/</guid>
+      <description>&lt;p&gt;As your CIOaaS, XLTech provides senior management engagement on IT effectiveness, costs and strategic alignment, without the overhead from hiring a senior manager in a critical but non-core role.&lt;/p&gt;
+
+&lt;p&gt;We work your staff to ensure IT skills, planning and delivery are thinking long-term and sustainability, and not floundering on fundamentals that distract value creation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CTO-as-a-Service</title>
+      <link>/solution/consulting/cto-as-a-service/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/solution/consulting/cto-as-a-service/</guid>
+      <description>&lt;p&gt;CTOaaS is designed for start-ups and business projects that require a CTO during the formative design and development stages of technical solutions.&lt;/p&gt;
+
+&lt;p&gt;As your CTOaaS, XLTech can help you define, resolve and document your project’s architecture, design principles, integration solutions, interface specifications, API, technology stacks, data models and solution selection.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

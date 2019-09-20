@@ -2,8 +2,8 @@
   "name": "XLTech Solutions",
   "short_name": "XLTech Solutions",
   "lang": "en-us",
-  "theme_color": "#9999ff",
-  "background_color": "#9999ff",
+  "theme_color": "#EAF04E",
+  "background_color": "#EAF04E",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
