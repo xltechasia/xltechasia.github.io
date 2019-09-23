@@ -33,12 +33,12 @@
   </url>
   
   <url>
-    <loc>/categories/product/</loc>
+    <loc>/tags/product/</loc>
     <lastmod>2019-09-23T11:10:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/product/</loc>
+    <loc>/categories/product/</loc>
     <lastmod>2019-09-23T11:10:06+08:00</lastmod>
   </url>
   
@@ -78,12 +78,12 @@
   </url>
   
   <url>
-    <loc>/categories/solution/</loc>
+    <loc>/tags/solution/</loc>
     <lastmod>2019-09-24T01:00:32+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/solution/</loc>
+    <loc>/categories/solution/</loc>
     <lastmod>2019-09-24T01:00:32+08:00</lastmod>
   </url>
   
