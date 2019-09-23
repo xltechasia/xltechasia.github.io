@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©&amp;nbsp;&amp;nbsp;2019&amp;nbsp;&amp;nbsp;XLTech Solutions Pte Ltd</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©&amp;nbsp;&amp;nbsp;2019&amp;nbsp;&amp;nbsp;XLTech Solutions Pte Ltd</copyright>
     <image>
       <url>/img/logo/XLTech-Logo-0640x0640-Clr-Transparent-Square-Margin.png</url>
       <title>Authors</title>
@@ -15,16 +15,8 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>
     
