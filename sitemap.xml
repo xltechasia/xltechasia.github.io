@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <loc>/docs/example/example1/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <loc>/docs/example/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <loc>/docs/example/example2/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
@@ -24,12 +24,17 @@
   
   <url>
     <loc>/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
     <lastmod>2019-09-20T11:55:35+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/articles/writing-technical-content-in-academic/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
@@ -38,12 +43,7 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/kb/an-example-preprint-/-working-paper/</loc>
+    <loc>/publication/preprint/</loc>
     <lastmod>2019-09-20T11:55:35+08:00</lastmod>
   </url>
   
@@ -64,11 +64,11 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/articles/display-jupyter-notebooks-with-academic/</loc>
+    <loc>/post/jupyter/</loc>
     <lastmod>2019-09-20T11:55:35+08:00</lastmod>
   </url>
   
@@ -83,63 +83,83 @@
   </url>
   
   <url>
-    <loc>/tags/as-required/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cio/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/solution/consulting/cio-as-a-service/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/consulting/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/cto/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <loc>/categories/consulting/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/solution/consulting/cto-as-a-service/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <loc>/solution/consulting/cxo-as-a-service/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/cxo/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <loc>/solution/service/host-in-a-box/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/long-term/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <loc>/categories/product/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/product/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
     <loc>/solution/consulting/project-audit-recovery/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
     <loc>/solution/consulting/project-initiation/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/projects/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <loc>/solution/product/rpi-kit-can-pi3-dummies-1-int/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/short-term/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <loc>/solution/product/rpi3b/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/solution/product/rpi3b-premiumkit/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/service/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/service/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/solution/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/solution/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
@@ -148,12 +168,7 @@
   </url>
   
   <url>
-    <loc>/articles/academic-the-website-builder-for-hugo/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>/post/getting-started/</loc>
     <lastmod>2019-09-20T11:55:35+08:00</lastmod>
   </url>
   
@@ -168,7 +183,7 @@
   </url>
   
   <url>
-    <loc>/kb/an-example-journal-article/</loc>
+    <loc>/publication/journal-article/</loc>
     <lastmod>2019-09-20T11:55:35+08:00</lastmod>
   </url>
   
@@ -183,7 +198,7 @@
   </url>
   
   <url>
-    <loc>/kb/an-example-conference-paper/</loc>
+    <loc>/publication/conference-paper/</loc>
     <lastmod>2019-09-20T11:55:35+08:00</lastmod>
   </url>
   
@@ -208,18 +223,28 @@
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <loc>/solutions/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <loc>/article/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-09-20T11:55:35+08:00</lastmod>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
   <url>
@@ -229,7 +254,7 @@
   
   <url>
     <loc>/solution/</loc>
-    <lastmod>2019-09-20T12:55:08+08:00</lastmod>
+    <lastmod>2019-09-23T10:17:47+08:00</lastmod>
   </url>
   
 </urlset>

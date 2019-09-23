@@ -21,66 +21,34 @@
     </item>
     
     <item>
-      <title>As-Required</title>
-      <link>/tags/as-required/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/as-required/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CIO</title>
-      <link>/tags/cio/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/cio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Consulting</title>
       <link>/tags/consulting/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
       <guid>/tags/consulting/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CTO</title>
-      <link>/tags/cto/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/cto/</guid>
+      <title>Product</title>
+      <link>/tags/product/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/tags/product/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CXO</title>
-      <link>/tags/cxo/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/cxo/</guid>
+      <title>Service</title>
+      <link>/tags/service/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/tags/service/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Long-Term</title>
-      <link>/tags/long-term/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/long-term/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/tags/projects/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Short-Term</title>
-      <link>/tags/short-term/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/short-term/</guid>
+      <title>Solution</title>
+      <link>/tags/solution/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/tags/solution/</guid>
       <description></description>
     </item>
     

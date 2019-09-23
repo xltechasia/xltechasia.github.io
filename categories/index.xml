@@ -5,12 +5,44 @@
     <link>/categories/</link>
       <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©&amp;nbsp;&amp;nbsp;2019&amp;nbsp;&amp;nbsp;XLTech Solutions Pte Ltd</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©&amp;nbsp;&amp;nbsp;2019&amp;nbsp;&amp;nbsp;XLTech Solutions Pte Ltd</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:01 +0800</lastBuildDate>
     <image>
       <url>/img/logo/XLTech-Logo-0640x0640-Clr-Transparent-Square-Margin.png</url>
       <title>Categories</title>
       <link>/categories/</link>
     </image>
+    
+    <item>
+      <title>Consulting</title>
+      <link>/categories/consulting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/categories/consulting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product</title>
+      <link>/categories/product/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/categories/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>/categories/service/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/categories/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution</title>
+      <link>/categories/solution/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/categories/solution/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Demo</title>
