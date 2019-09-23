@@ -30,6 +30,17 @@
     
     <item>
       <title></title>
+      <link>/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/consulting/</guid>
+      <description>
+
+&lt;h1 id=&#34;solutions&#34;&gt;Solutions&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>
@@ -44,6 +55,28 @@
       <description>
 
 &lt;h1 id=&#34;knowledgebase&#34;&gt;Knowledgebase&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/products/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/products/</guid>
+      <description>
+
+&lt;h1 id=&#34;solutions&#34;&gt;Solutions&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/services/</guid>
+      <description>
+
+&lt;h1 id=&#34;solutions&#34;&gt;Solutions&lt;/h1&gt;
 </description>
     </item>
     
