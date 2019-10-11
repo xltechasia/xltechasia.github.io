@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>/categories/consulting/</loc>
+    <loc>/tags/consulting/</loc>
     <lastmod>2019-01-01T00:00:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/consulting/</loc>
+    <loc>/categories/consulting/</loc>
     <lastmod>2019-01-01T00:00:01+08:00</lastmod>
   </url>
   
@@ -28,12 +28,22 @@
   </url>
   
   <url>
+    <loc>/tags/flexi/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/solution/service/host-in-a-box/</loc>
     <lastmod>2019-01-01T00:00:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/solution/service/nextcloud/</loc>
+    <loc>/tags/nextcloud/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/performa/</loc>
     <lastmod>2019-01-01T00:00:01+08:00</lastmod>
   </url>
   
@@ -58,12 +68,12 @@
   </url>
   
   <url>
-    <loc>/categories/solution/</loc>
+    <loc>/tags/solution/</loc>
     <lastmod>2019-01-01T00:00:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/solution/</loc>
+    <loc>/categories/solution/</loc>
     <lastmod>2019-01-01T00:00:01+08:00</lastmod>
   </url>
   
@@ -73,7 +83,37 @@
   </url>
   
   <url>
+    <loc>/tags/supra/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/xlcloud/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/solution/service/xlcloud/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/solution/service/xlcloud-flexi/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/solution/service/xlcloud-perf/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/solution/service/xlcloud-supra/</loc>
     <lastmod>2019-01-01T00:00:01+08:00</lastmod>
   </url>
   
