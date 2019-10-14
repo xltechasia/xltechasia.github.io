@@ -33,7 +33,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;From personal use to easily securing and accessing your files from anywhere, for accessible backups, through to professional, reliable and ease of sharing within small teams, to dozens, hundreds or thousands across the globe, our XLCloud solution, built on Nextcloud, is offered in flexible plan so you can start small and move as your needs grow.&lt;/p&gt;
+&lt;p&gt;From personal use to easily securing and accessing your files from anywhere, for accessible backups, through to professional, reliable and ease of sharing within small teams, to dozens, hundreds or thousands across the globe, our XLCloud solution, built on Nextcloud, is offered in flexible plans so you can start small and move as your needs grow.&lt;/p&gt;
 
 &lt;h2 id=&#34;nextcloud-a-safe-place-to-keep-your-data&#34;&gt;Nextcloud - a safe place to keep your data&lt;/h2&gt;
 
@@ -198,9 +198,9 @@
 &lt;th&gt;SKU #&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Memory&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Processors&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Storage &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Per Month&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;XLRestore &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Storage&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Per Month:&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;XLRestore&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;:&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -254,9 +254,9 @@
 &lt;th&gt;SKU #&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Memory&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Processors&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Storage &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Per Month&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;XLRestore &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Storage&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Per Month:&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;XLRestore&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;:&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -382,9 +382,9 @@
 &lt;th&gt;SKU #&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Memory&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Processors&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Storage &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Per Month&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;XLRestore &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Storage&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Per Month:&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;XLRestore&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;:&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -452,9 +452,9 @@
 &lt;tr&gt;
 &lt;th&gt;SKU #&lt;/th&gt;
 &lt;th&gt;Info&lt;/th&gt;
-&lt;th&gt;Storage &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Per Month&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;XLRestore &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
+&lt;th&gt;Storage&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Per Month:&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;XLRestore&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;:&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -493,8 +493,6 @@ Storage is calculated based on monthly average, not peak usage.&lt;/p&gt;
 &lt;tbody&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;p&gt;&lt;em&gt;Notes:&lt;/em&gt;&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
@@ -560,9 +558,9 @@ Storage is calculated based on monthly average, not peak usage.&lt;/p&gt;
 &lt;th&gt;SKU #&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Memory&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Processors&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Storage (1)&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Storage&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Per Month&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;XLRestore (2)&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;XLRestore&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -616,9 +614,9 @@ Storage is calculated based on monthly average, not peak usage.&lt;/p&gt;
 &lt;th&gt;SKU #&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Memory&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Processors&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Storage (1)&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Storage&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Per Month&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;XLRestore (2)&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;XLRestore&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -698,7 +696,7 @@ Storage is calculated based on monthly average, not peak usage.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Change to any other configuration on request within Tiers 2 and 3&lt;/li&gt;
-&lt;li&gt;Dedicated CPUs for improved performance for server side functionality (4)&lt;/li&gt;
+&lt;li&gt;Dedicated CPUs for improved performance for server side functionality[^4]&lt;/li&gt;
 &lt;li&gt;All Performa Tier 3 systems include 2TB of storage prepaid&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -708,9 +706,9 @@ Storage is calculated based on monthly average, not peak usage.&lt;/p&gt;
 &lt;th&gt;SKU #&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Memory&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Processors&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Storage (1)&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Storage&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Per Month&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;XLRestore (2)&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;XLRestore&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -778,9 +776,9 @@ Storage is calculated based on monthly average, not peak usage.&lt;/p&gt;
 &lt;tr&gt;
 &lt;th&gt;SKU #&lt;/th&gt;
 &lt;th&gt;Info&lt;/th&gt;
-&lt;th&gt;Storage (1)&lt;/th&gt;
+&lt;th&gt;Storage&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Per Month&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;XLRestore (3)&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;XLRestore&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -796,7 +794,7 @@ Storage is calculated based on monthly average, not peak usage.&lt;/p&gt;
 &lt;/table&gt;
 
 &lt;p&gt;Additional Storage is charged on assignment to your server.
-Usage of space is not accounted for, as the space is reserved.&lt;/p&gt;
+Usage of space is not accounted for - pricing is based on allocation/availability, as the space is reserved.&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -812,14 +810,20 @@ Usage of space is not accounted for, as the space is reserved.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;em&gt;Notes:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[^4] As general guidance, increased memory will improve overall system performance in typical usage scenarios.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
 
 &lt;ol&gt;
-&lt;li&gt;XLCloud Performa Series utilize Block Storage.&lt;/li&gt;
-&lt;li&gt;XLRestore is designed primarily as a diseaster recovery solution. A copy of the server and storage contents are encrypted and sent to an overseas storage service at the end of every day. These backups are kept for 30 days before being destroyed.&lt;/li&gt;
-&lt;li&gt;If the base system has a XLRestore subscription, then all additional storage units consumped will automatically include a XLTRestore subscription.&lt;/li&gt;
-&lt;li&gt;As general guidance, increased memory will improve overall system performance in typical usage scenarios.&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34;&gt;XLCloud Performa Series utilize Block Storage.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;XLRestore is designed primarily as a diseaster recovery solution. A copy of the server and storage contents are encrypted and sent to an overseas storage service at the end of every day. These backups are kept for 30 days before being destroyed.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;If the base system has a XLRestore subscription, then all additional storage units consumped will automatically include a XLTRestore subscription.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -842,11 +846,11 @@ Usage of space is not accounted for, as the space is reserved.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The Supra Series are focused on storage capacity, with the aim of providing the most storage possible for the lowest cost.&lt;/p&gt;
+&lt;p&gt;The Supra Series are focused on performance.&lt;/p&gt;
 
-&lt;p&gt;The Supra series is ideal for storing large amounts of data that is primarily created and not frequently modified.&lt;/p&gt;
+&lt;p&gt;The Supra series is scenarios where multple file changes and user are attached simultaneously.&lt;/p&gt;
 
-&lt;p&gt;All Supra series automatically adjust their storage usage based on your usage patterns - any overage is charged on a month average in 250GB increments - not peak consumed - so no nasty bill shock or permanent commitments to storage you do not need everyday.&lt;/p&gt;
+&lt;p&gt;All Supra series storage capacity is fixed, with system upgrades the on;y path to increased storage capacity.&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -854,9 +858,9 @@ Usage of space is not accounted for, as the space is reserved.&lt;/p&gt;
 &lt;th&gt;SKU #&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Memory&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Processors&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Storage (1)&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Storage&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
 &lt;th align=&#34;right&#34;&gt;Per Month&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;XLRestore (2)&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;XLRestore&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -948,15 +952,17 @@ Usage of space is not accounted for, as the space is reserved.&lt;/p&gt;
 &lt;tbody&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
 
-&lt;p&gt;&lt;em&gt;Notes:&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;ol&gt;
-&lt;li&gt;XLCloud Supra Series utilize Object Storage. Due to encoding and storage requirements, additional overhead is carried, therefore actual storage usage reported by Nextcloud will be 30% to 50% lower than the space consumed. As guidance, each 150GB of file storage reported by Nextcloud, represents approximately 250GB of space on system storage.&lt;/li&gt;
-&lt;li&gt;XLRestore is designed primarily as a diseaster recovery solution. A copy of the server and storage contents are encrypted and sent to an overseas storage service at the end of every day. These backups are kept for 30 days before being destroyed.&lt;/li&gt;
-&lt;li&gt;If the base system has a XLRestore subscription, then all additional storage units consumped will automatically include a XLTRestore subscription.&lt;/li&gt;
-&lt;li&gt;As general guidance, increased memory will improve overall system performance in typical usage scenarios.&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34;&gt;XLCloud Supra Series utilize direct attached storage. Space is fixed, with upgrades to the next model (SKU) the only storage expansion path.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;XLRestore is designed primarily as a diseaster recovery solution. A copy of the server and storage contents are encrypted and sent to an overseas storage service at the end of every day. These backups are kept for 30 days before being destroyed.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+&lt;/div&gt;
 </description>
     </item>
     
