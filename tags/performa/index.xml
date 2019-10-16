@@ -23,9 +23,10 @@
   &lt;thead&gt;
   &lt;tr&gt;
   &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/&#34;&gt;XLCloud Overview&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-flexi/&#34;&gt;XLCloud Flexi&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-perf/&#34;&gt;XLCloud Performa&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-supra/&#34;&gt;XLCloud Supra&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-flexi/&#34;&gt;Flexi Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-perf/&#34;&gt;Performa Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-supra/&#34;&gt;Supra Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/#xlcloud-feature-list&#34;&gt;Common Features&lt;/a&gt;&lt;/th&gt;
   &lt;/tr&gt;
   &lt;/thead&gt;
   
@@ -47,9 +48,10 @@
   &lt;thead&gt;
   &lt;tr&gt;
   &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/&#34;&gt;XLCloud Overview&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-flexi/&#34;&gt;XLCloud Flexi&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-perf/&#34;&gt;XLCloud Performa&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-supra/&#34;&gt;XLCloud Supra&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-flexi/&#34;&gt;Flexi Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-perf/&#34;&gt;Performa Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-supra/&#34;&gt;Supra Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/#xlcloud-feature-list&#34;&gt;Common Features&lt;/a&gt;&lt;/th&gt;
   &lt;/tr&gt;
   &lt;/thead&gt;
   
@@ -89,9 +91,10 @@
   &lt;thead&gt;
   &lt;tr&gt;
   &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/&#34;&gt;XLCloud Overview&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-flexi/&#34;&gt;XLCloud Flexi&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-perf/&#34;&gt;XLCloud Performa&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-supra/&#34;&gt;XLCloud Supra&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-flexi/&#34;&gt;Flexi Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-perf/&#34;&gt;Performa Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-supra/&#34;&gt;Supra Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/#xlcloud-feature-list&#34;&gt;Common Features&lt;/a&gt;&lt;/th&gt;
   &lt;/tr&gt;
   &lt;/thead&gt;
   
@@ -137,9 +140,269 @@
   &lt;thead&gt;
   &lt;tr&gt;
   &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/&#34;&gt;XLCloud Overview&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-flexi/&#34;&gt;XLCloud Flexi&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-perf/&#34;&gt;XLCloud Performa&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-supra/&#34;&gt;XLCloud Supra&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-flexi/&#34;&gt;Flexi Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-perf/&#34;&gt;Performa Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-supra/&#34;&gt;Supra Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/#xlcloud-feature-list&#34;&gt;Common Features&lt;/a&gt;&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;/thead&gt;
+  
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+  &lt;/table&gt;
+
+&lt;h2 id=&#34;xlcloud-feature-list&#34;&gt;XLCloud Feature List&lt;/h2&gt;
+
+&lt;p&gt;The following features are common across all XLCloud series and tiers.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Area&lt;/th&gt;
+&lt;th&gt;Function&lt;/th&gt;
+&lt;th&gt;Info&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Files&lt;/td&gt;
+&lt;td&gt;File Storage&lt;/td&gt;
+&lt;td&gt;Upload, synch, comments, tags, multiple versions, move files via web interface&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;File Sharing&lt;/td&gt;
+&lt;td&gt;Share via user, email, link, social media sites, password protection and expiration date. Can allow user without an account (just email) to edit a document.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Full Text Search&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Folder Sharing&lt;/td&gt;
+&lt;td&gt;Share via user, email, link, social media sites, password protection and expiration date. Can allow user to view and upload.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;PDF Viewer&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Photo Galleries&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Document Editing&lt;/td&gt;
+&lt;td&gt;Yes - including for Email Users with no Login (via shared link)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Activity Tracking for Files&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Large File Support&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Storage Limitation per User&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;File Access Control&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;File Locking&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Federation&lt;/td&gt;
+&lt;td&gt;Sharing files across Nextcloud servers&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Clients&lt;/td&gt;
+&lt;td&gt;Web Client&lt;/td&gt;
+&lt;td&gt;Accessible though any standard browser inc. FireFox, Chrome, Safari, Opera, IE &amp;amp; Edge&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Desktop Clients&lt;/td&gt;
+&lt;td&gt;Windows, Mac, Linux&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Mobile Clients&lt;/td&gt;
+&lt;td&gt;Google Play Android Nextcloud, Apple AppStore Nextcloud, F-Droid Repository Android client&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apps&lt;/td&gt;
+&lt;td&gt;App Store / Marketplace&lt;/td&gt;
+&lt;td&gt;Yes - Over 100 apps listed in the Nextcloud app store&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Audio/Video Chat&lt;/td&gt;
+&lt;td&gt;Yes - Includes push notifications&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Audio/Video Player&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Bookmarks App&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Calendar App&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Contacts App&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Email&lt;/td&gt;
+&lt;td&gt;Yes - Nextcloud Mail app plus a RainLoop integration app for IMAP access&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Notes&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Weather&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Security&lt;/td&gt;
+&lt;td&gt;Two Factor Authentication&lt;/td&gt;
+&lt;td&gt;Multiple methods available, plus enforcement&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Brute Force Protection&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Rate Limiting&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Other Features&lt;/td&gt;
+&lt;td&gt;User Groups&lt;/td&gt;
+&lt;td&gt;Yes &amp;amp; User Created groups via Circles app allows your users to create their own groups of users/colleagues/friends&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;API&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Resource Monitoring&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;LibreOffice Online Integration&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Third Party Authentication&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Theme Customization&lt;/td&gt;
+&lt;td&gt;Site Icon, Header Logo, Login Background&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Role Based Administration&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Workflow&lt;/td&gt;
+&lt;td&gt;Yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Accessibility&lt;/td&gt;
+&lt;td&gt;WCAG 2.0 AA and AAA standard compliance, Keyboard/screen reader support, Dyslexia-friendly font&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Translations&lt;/td&gt;
+&lt;td&gt;33 languages available&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+  &lt;tr&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/&#34;&gt;XLCloud Overview&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-flexi/&#34;&gt;Flexi Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-perf/&#34;&gt;Performa Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-supra/&#34;&gt;Supra Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/#xlcloud-feature-list&#34;&gt;Common Features&lt;/a&gt;&lt;/th&gt;
   &lt;/tr&gt;
   &lt;/thead&gt;
   
@@ -160,9 +423,10 @@
   &lt;thead&gt;
   &lt;tr&gt;
   &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/&#34;&gt;XLCloud Overview&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-flexi/&#34;&gt;XLCloud Flexi&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-perf/&#34;&gt;XLCloud Performa&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-supra/&#34;&gt;XLCloud Supra&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-flexi/&#34;&gt;Flexi Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-perf/&#34;&gt;Performa Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-supra/&#34;&gt;Supra Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/#xlcloud-feature-list&#34;&gt;Common Features&lt;/a&gt;&lt;/th&gt;
   &lt;/tr&gt;
   &lt;/thead&gt;
   
@@ -438,9 +702,10 @@ Usage of space is not accounted for - pricing is based on allocation/availabilit
   &lt;thead&gt;
   &lt;tr&gt;
   &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/&#34;&gt;XLCloud Overview&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-flexi/&#34;&gt;XLCloud Flexi&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-perf/&#34;&gt;XLCloud Performa&lt;/a&gt;&lt;/th&gt;
-  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-supra/&#34;&gt;XLCloud Supra&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-flexi/&#34;&gt;Flexi Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-perf/&#34;&gt;Performa Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud-supra/&#34;&gt;Supra Series&lt;/a&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;a href=&#34;/solution/service/xlcloud/#xlcloud-feature-list&#34;&gt;Common Features&lt;/a&gt;&lt;/th&gt;
   &lt;/tr&gt;
   &lt;/thead&gt;
   
