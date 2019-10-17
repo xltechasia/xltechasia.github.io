@@ -59,32 +59,38 @@
   &lt;/tbody&gt;
   &lt;/table&gt;
 
-&lt;h3 id=&#34;features-include&#34;&gt;Features Include&lt;/h3&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Centralized data storage - Always have access to your data via a web browser or Nextcloud application on any device&lt;/li&gt;
+&lt;li&gt;Always Secure - You, and you alone, decide who has access to your data - something traditional cloud storage vendors do not promise&lt;/li&gt;
+&lt;li&gt;Teamwork - Realtime folder sharing and optional integration with online office suites Collabora or OnlyOffice&lt;/li&gt;
+&lt;li&gt;Open Source - XLCloud is built on industry leading open source cloud software by Nextcloud&lt;/li&gt;
+&lt;li&gt;Secure Communications - Available via the Nextcloud App Store, leverage Nextcloud Talk to for fully encrypted and private text, audio and video communications&lt;/li&gt;
+&lt;li&gt;Fully Secured Sharing - Share files, folders, calendars and contacts with other XLCloud users or via public links (optionally password and time limited) from any device&lt;/li&gt;
+&lt;li&gt;Integrated with Email - Available for Thunderbird and Outlook, plugins to automatically replace large attachments with a link&lt;/li&gt;
 &lt;li&gt;Start small and grow as you need to - plans start from S$25 per month with 500GB&lt;/li&gt;
 &lt;li&gt;Unlimited number of users - pay only for the performance and storage you need&lt;/li&gt;
-&lt;li&gt;Share files or folders across your team, organization or outside your organization&lt;/li&gt;
-&lt;li&gt;Options for High Performance, Growth or Flexible storage to suit your needs&lt;/li&gt;
+&lt;li&gt;XLCloud Options for High Performance, Growth or Flexible storage to suit your needs&lt;/li&gt;
 &lt;li&gt;Full Nextcloud Administration control panel access - customize to your needs
 
 &lt;ul&gt;
 &lt;li&gt;Add users and install plugin and extensions to suit your requirements&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Get a personalize server URL (yourname.xlcloud.io) or connect to your own domain (e.g. cloud.yourdomain.com) for a professional look&lt;/li&gt;
+&lt;li&gt;Comes with a personalize server URL (yourname.xlcloud.io) or optionally extend to your own domain (e.g. cloud.yourdomain.com) for a more professional look.&lt;/li&gt;
 &lt;li&gt;Multiple servers can be federated for granular control
 
 &lt;ul&gt;
 &lt;li&gt;Separate administration control&lt;/li&gt;
 &lt;li&gt;Still able to share files and folders cross teams and servers&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Extendable with plugins for versioning/undelete, chat, voice and video conferencing, calendaring and contact/address books&lt;/li&gt;
+&lt;li&gt;Extendable with plugins for versioning/undelete, chat, voice and video conferencing, calendaring and contact/address books - over a 100 applications available to extend your implementation.&lt;/li&gt;
 &lt;li&gt;Options for integrated user sign-in and enrollment with existing security systems
 
 &lt;ul&gt;
 &lt;li&gt;No new password to remember&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Optional 30-day cycle backup, fully encrypted and stored off-site, of all your files with our XLRestore solution&lt;/li&gt;
+&lt;li&gt;XLRestore - Optional 30-day cycle backup of all your files - fully encrypted and stored off-site for increased protection&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;table&gt;
@@ -168,7 +174,7 @@
 &lt;tr&gt;
 &lt;td&gt;Files&lt;/td&gt;
 &lt;td&gt;File Storage&lt;/td&gt;
-&lt;td&gt;Upload, synch, comments, tags, multiple versions, move files via web interface&lt;/td&gt;
+&lt;td&gt;Upload, sync, comments, tags, multiple versions, move files via web interface or application&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -209,7 +215,7 @@
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Activity Tracking for Files&lt;/td&gt;
+&lt;td&gt;Activity Tracking&lt;/td&gt;
 &lt;td&gt;Yes&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -221,7 +227,7 @@
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Storage Limitation per User&lt;/td&gt;
+&lt;td&gt;Storage Quota per User&lt;/td&gt;
 &lt;td&gt;Yes&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -258,7 +264,19 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;Mobile Clients&lt;/td&gt;
-&lt;td&gt;Google Play Android Nextcloud, Apple AppStore Nextcloud, F-Droid Repository Android client&lt;/td&gt;
+&lt;td&gt;Google Play Android Nextcloud&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Apple AppStore Nextcloud (iOS &amp;amp; iPadOS)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;F-Droid Open Source Repository Android client&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -300,7 +318,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;Email&lt;/td&gt;
-&lt;td&gt;Yes - Nextcloud Mail app plus a RainLoop integration app for IMAP access&lt;/td&gt;
+&lt;td&gt;Yes - Nextcloud Mail app plus RainLoop integration app for IMAP access&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -318,7 +336,7 @@
 &lt;tr&gt;
 &lt;td&gt;Security&lt;/td&gt;
 &lt;td&gt;Two Factor Authentication&lt;/td&gt;
-&lt;td&gt;Multiple methods available, plus enforcement&lt;/td&gt;
+&lt;td&gt;Multiple methods available with enforcement&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -336,7 +354,7 @@
 &lt;tr&gt;
 &lt;td&gt;Other Features&lt;/td&gt;
 &lt;td&gt;User Groups&lt;/td&gt;
-&lt;td&gt;Yes &amp;amp; User Created groups via Circles app allows your users to create their own groups of users/colleagues/friends&lt;/td&gt;
+&lt;td&gt;Yes via Circles app which allows users to create their own groups&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -353,8 +371,8 @@
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;LibreOffice Online Integration&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
+&lt;td&gt;Online Office Suites&lt;/td&gt;
+&lt;td&gt;Yes - Optional integrations available&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -384,7 +402,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;Accessibility&lt;/td&gt;
-&lt;td&gt;WCAG 2.0 AA and AAA standard compliance, Keyboard/screen reader support, Dyslexia-friendly font&lt;/td&gt;
+&lt;td&gt;WCAG 2.0 AA and AAA standard compliance, Keyboard/screen reader support&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
