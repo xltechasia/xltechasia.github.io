@@ -13,19 +13,6 @@
     </image>
     
     <item>
-      <title>Host-in-a-Box</title>
-      <link>/solution/service/host-in-a-box/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
-      <guid>/solution/service/host-in-a-box/</guid>
-      <description>&lt;p&gt;Your own Domain, unlimited users/email accounts (and aliases), cloud storage, website hosting, address book, and calendaring.&lt;/p&gt;
-
-&lt;p&gt;Starting with 100GB of storage.&lt;/p&gt;
-
-&lt;p&gt;More information coming soon&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>XLCloud</title>
       <link>/solution/service/xlcloud/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
@@ -1263,6 +1250,276 @@ Usage of space is not accounted for - pricing is based on allocation/availabilit
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XLMailBox</title>
+      <link>/solution/service/xlmailbox/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/solution/service/xlmailbox/</guid>
+      <description>
+
+&lt;p&gt;Using your own domain you can host unlimited users/email accounts (and aliases), have cloud storage, host a static website, manage address books, and calendaring.&lt;/p&gt;
+
+&lt;p&gt;Compatible with all major Operating Systems and Mail &amp;amp; Calendaring solutions including Mac OS Mail, Thunderbird, Evolution, Microsoft Outlook, iPhone (iOS), iPad (iPadOS) and Android.&lt;/p&gt;
+
+&lt;p&gt;Access your email either through a email client or from a web browser. Includes Mail hosting email rules so your email is self organizing without you needing to connect.&lt;/p&gt;
+
+&lt;p&gt;Starting at on S$25 per month, everything you need to get your business online and looking professional.&lt;/p&gt;
+
+&lt;h2 id=&#34;xlmailbox-tier-1&#34;&gt;XLMailBox Tier 1&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;SKU&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Memory&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;vCPU&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Storage&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;S$ Per Month&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;S$ XLRestore&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;XLMBT1/25ST/11251000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;100GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$25.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$5.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT1/25CO/42251000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;100GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$85.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$17.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT1/25GP/82251000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;8GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;100GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$120.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$24.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;xlmailbox-tier-2&#34;&gt;XLMailBox Tier 2&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;SKU&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Memory&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;vCPU&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Storage&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;S$ Per Month&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;S$ XLRestore&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;XLMBT2/50ST/21502000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;200GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$50.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$10.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT2/50ST/22602000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;200GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$60.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$12.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT2/50ST/42802000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;200GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$70.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$14.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT2/50ST/841602000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;8GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;200GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$100.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$20.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT2/50ST/1663202000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;16GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;6 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;200GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$170.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$34.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT2/50ST/3286402000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;32GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;8 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;200GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$300.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$60.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT2/50ST/48129602000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;48GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;12 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;200GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$440.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$88.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT2/50ST/641612802000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;64GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;16 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;200GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$580.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$116.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT2/50ST/962019202000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;96GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;200GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$850.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$170.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT2/50ST/1282425602000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;128GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;24 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;200GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$1,110.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$222.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT2/50ST/1923238402000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;192GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;32 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;200GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$1,650.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$330.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;xlmailbox-tier-3&#34;&gt;XLMailBox Tier 3&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;SKU&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Memory&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;vCPU&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Storage&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;S$ Per Month&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;S$ XLRestore&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;XLMBT3/50CO/84504000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;8GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;400GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$200.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$40.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT3/50GP/164504000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;16GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;400GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$270.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$54.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT3/50CO/1681004000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;16GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;8 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;400GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$340.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$68.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT3/50GP/3281004000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;32GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;8 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;400GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$470.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$94.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT3/50CO/32162004000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;32GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;16 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;400GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$600.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$120.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;XLMBT3/50GP/64162004000&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;64GB RAM&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;16 vCPU&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;400GB&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$880.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$176.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;xlmailbox-options&#34;&gt;XLMailBox Options&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;SKU&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;S$ Per Month&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;S$ XLRestore&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;XLMBTX/0ADD-BLK/1000&lt;/td&gt;
+&lt;td&gt;Additional 100GB Storage Space&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$18.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;S$4.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
     </item>
     

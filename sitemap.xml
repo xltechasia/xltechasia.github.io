@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>/tags/consulting/</loc>
+    <loc>/categories/consulting/</loc>
     <lastmod>2019-01-01T00:00:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/consulting/</loc>
+    <loc>/tags/consulting/</loc>
     <lastmod>2019-01-01T00:00:01+08:00</lastmod>
   </url>
   
@@ -28,12 +28,27 @@
   </url>
   
   <url>
+    <loc>/tags/dmarc/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dns/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/email/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/flexi/</loc>
     <lastmod>2019-01-01T00:00:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/solution/service/host-in-a-box/</loc>
+    <loc>/tags/imap/</loc>
     <lastmod>2019-01-01T00:00:01+08:00</lastmod>
   </url>
   
@@ -93,6 +108,11 @@
   </url>
   
   <url>
+    <loc>/tags/website/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/xlcloud/</loc>
     <lastmod>2019-01-01T00:00:01+08:00</lastmod>
   </url>
@@ -114,6 +134,16 @@
   
   <url>
     <loc>/solution/service/xlcloud-supra/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/xlmailbox/</loc>
+    <lastmod>2019-01-01T00:00:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/solution/service/xlmailbox/</loc>
     <lastmod>2019-01-01T00:00:01+08:00</lastmod>
   </url>
   

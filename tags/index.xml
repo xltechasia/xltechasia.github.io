@@ -21,10 +21,42 @@
     </item>
     
     <item>
+      <title>DMARC</title>
+      <link>/tags/dmarc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/tags/dmarc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNS</title>
+      <link>/tags/dns/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/tags/dns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Email</title>
+      <link>/tags/email/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/tags/email/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Flexi</title>
       <link>/tags/flexi/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
       <guid>/tags/flexi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IMAP</title>
+      <link>/tags/imap/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/tags/imap/</guid>
       <description></description>
     </item>
     
@@ -69,10 +101,26 @@
     </item>
     
     <item>
+      <title>Website</title>
+      <link>/tags/website/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>XLCloud</title>
       <link>/tags/xlcloud/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
       <guid>/tags/xlcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XLMailBox</title>
+      <link>/tags/xlmailbox/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:01 +0800</pubDate>
+      <guid>/tags/xlmailbox/</guid>
       <description></description>
     </item>
     
